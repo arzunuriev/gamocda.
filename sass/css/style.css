@@ -1,0 +1,35 @@
+body {
+  font: 100% Helvetica, sans-serif;
+  color: tan;
+  background-color: #594C67; }
+
+p {
+  font-size: 17pt;
+  font-weight: bold;
+  text-align: center; }
+
+div {
+  height: 12em;
+  width: 12em;
+  background-color: white;
+  margin-top: 70px;
+  margin-right: auto;
+  margin-left: auto; }
+
+nav ul {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+  margin-top: 70px;
+  text-align: center; }
+nav li {
+  display: inline-block; }
+nav a {
+  display: block;
+  padding: 6px 12px;
+  text-decoration: none;
+  color: white; }
+nav a:hover {
+  color: tan; }
+
+/*# sourceMappingURL=style.css.map */
